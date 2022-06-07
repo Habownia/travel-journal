@@ -1,0 +1,19 @@
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 110px;
+	background-color: #f55a5a;
+}
+
+.nav--earth {
+	width: 60px;
+	height: 60px;
+}
+
+.nav--text {
+	color: #fff;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 20px;
+}
